@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Dart SDK"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Flutter Plugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Dart Packages"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

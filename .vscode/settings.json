@@ -1,0 +1,13 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/windows/flutter",
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    },
+    "dart.flutterTestAdditionalArgs": [
+        "--no-sound-null-safety"
+    ],
+    "dart.vmServiceLogFile": null,
+    "php.validate.executablePath": "C:/Games/bin/php/php5.6.40/php.exe"
+}
